@@ -13,12 +13,15 @@
         <Button
             android:id="@+id/btn_open_sensor"
             style="@style/SvmBtnStyle"
-            android:text="打开传感器" />
+            android:text="打开传感器"
+            android:backgroundTint="@android:drawable/ic_menu_edit"
+            android:background="@drawable/btn_clickable_shape" />
 
         <Button
             android:id="@+id/btn_close_sensor"
             style="@style/SvmBtnStyle"
-            android:text="关闭传感器" />
+            android:text="关闭传感器"
+            android:background="@drawable/btn_style_one_focused" />
     </LinearLayout>
 
     <TextView

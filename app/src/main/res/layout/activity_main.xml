@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/aa1dc57920afe22a2"
+    android:background="@drawable/kkkk"
     tools:context="smv.lovearthstudio.com.svmproj.activity.MainActivity">
 
     <FrameLayout
@@ -21,6 +21,7 @@
 
         <Button
             android:id="@+id/btn_collection_data"
+
             style="@style/SvmBtnStyle"
             android:text="采集数据" />
 
@@ -32,6 +33,6 @@
         <Button
             android:id="@+id/btn_real"
             style="@style/SvmBtnStyle"
-            android:text="真实数据" />
+            android:text="退出软件" />
     </LinearLayout>
 </LinearLayout>

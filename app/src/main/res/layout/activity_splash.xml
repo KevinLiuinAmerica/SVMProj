@@ -4,7 +4,7 @@
     android:id="@+id/fl_splash"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@mipmap/mmmm"
+    android:background="@drawable/bbb"
     tools:context="smv.lovearthstudio.com.svmproj.activity.SplashActivity">
 
 </FrameLayout>
